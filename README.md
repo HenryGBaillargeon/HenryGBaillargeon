@@ -2,7 +2,7 @@
 
 **Product Engineer / Device Associate** at a donation-kiosk startup and Analytics student (AI concentration) at **Northeastern University**. I write production code across iOS, Android, web, and backend.
 
-📍 Greater Boston, MA · ✉️ henrygbaillargeon@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/henry-baillargeon) · 🥾 [trailguardian.org](https://trailguardian.org)
+📍 Greater Boston, MA · ✉️ henrygbaillargeon@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/henry-baillargeon) · 🥾 [trail-guardian.org](https://trailguardian.org)
 
 ---
 
