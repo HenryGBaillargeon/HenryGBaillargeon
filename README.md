@@ -2,7 +2,7 @@
 
 **Product Engineer / Device Associate** at a donation-kiosk startup and Analytics student (AI concentration) at **Northeastern University**. I write production code across iOS, Android, web, and backend.
 
-📍 Greater Boston, MA · ✉️ henrygbaillargeon@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/henry-baillargeon) · 🥾 [trail-guardian.org](https://trailguardian.org)
+📍 Greater Boston, MA · ✉️ henrygbaillargeon@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/henry-baillargeon) · 🥾 [trail-guardian.org](https://trail-guardian.org)
 
 ---
 
@@ -11,7 +11,7 @@
 **Product Engineer / Device Associate — donation-kiosk startup**
 I contribute features across the team's stack: native iOS (SwiftUI) and Android (Jetpack Compose) apps, a Next.js/React admin dashboard, and a Swift backend on Vapor with PostgreSQL and Redis. Review pull requests from other engineers on the team.
 
-**[Trail Guardian](https://trailguardian.org)** — hiking safety app *(live)*
+**[Trail Guardian](https://trail-guardian.org)** — hiking safety app *(live)*
 A solo project I've been building since 2025 that connects hikers on the same trail so they can check on and help each other. Features include live hiker presence and altitude-specific weather.
 - **Stack:** Next.js, Express, MongoDB, Socket.io
 - **How I run it:** issues tracked in Linear, work broken into scoped PRs, protected `main` branch, and PR review before merge. Recent example: moving active-hike state to app level as the first part of a ~10-part epic (+847/−374).
